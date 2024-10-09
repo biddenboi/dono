@@ -1,7 +1,7 @@
 {
   "name": "special-happiness",
   "version": "1.0.0",
-  "description": "[Income Quiz](html/income quiz.html)",
+  "description": "[Income Quiz](html/incomeQuiz.html)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
